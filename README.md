@@ -1,3 +1,3 @@
 # webservice-restful
-Webservice Restful com node.js + mongoDB
+REST API using node.js + mongoDB
 
